@@ -2,7 +2,7 @@
   "id": "448406e8-1063-49bf-85ae-b27ec812e6dc",
   "name": "New Repo Test",
   "publisher": "Dynetek (Pty) Ltd",
-  "version": "1.0.0.0",
+  "version": "20.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "19.0.0.0",
+  "application": "20.0.0.0",
   "idRanges": [
     {
       "from": 50100,
